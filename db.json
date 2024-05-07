@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "84f4",
+      "name": "Apple Watch  ",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-ultra2-202403?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1708673883590",
+      "descr": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta quod illum quaerat vero cumque impedit. Doloremque quo et illum dolorum!",
+      "price": 1209,
+      "type": "watch"
+    },
+    {
+      "id": "4bb4",
+      "name": "Mac",
+      "image": "",
+      "descr": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci delectus quisquam saepe, error ipsum consequuntur.",
+      "price": 3000,
+      "type": "mac"
+    },
+    {
+      "id": "5ac9",
+      "name": "iPhone 15",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone15hero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290559",
+      "descr": " iPhone 15 Pro and iPhone 15 Pro Max do not include a power adapter or EarPods.",
+      "price": 200,
+      "type": "iphone"
+    },
+    {
+      "id": "15b2",
+      "name": "11",
+      "image": "",
+      "descr": "",
+      "price": "",
+      "type": ""
+    }
+  ]
+}
